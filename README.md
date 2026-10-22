@@ -20,4 +20,4 @@
 
 纯静态页面，直接用浏览器打开 `index.html`，或部署到任意静态托管（GitHub Pages 已启用时访问仓库 Pages 地址）。
 
-在线访问：<https://xu-haha507.github.io/shanghai-metro-live/>
+在线访问：<https://sunwebgo.github.io/shanghai-metro-live/>
